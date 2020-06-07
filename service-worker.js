@@ -14,10 +14,10 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.7e8eb40454481ec429f157b9f7bc9634.js"
+  "/precache-manifest.7ea89665f63265f24a457be2ec5194c6.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "luke-fryer-photographer"});
+workbox.core.setCacheNameDetails({prefix: "luke-fryer-photography"});
 
 self.addEventListener('message', (event) => {
   if (event.data && event.data.type === 'SKIP_WAITING') {

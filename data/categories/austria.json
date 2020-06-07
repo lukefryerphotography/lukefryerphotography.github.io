@@ -1,0 +1,18 @@
+{
+  "largeHeading": "Austria",
+  "smallHeading": "Austria's ace",
+  "images": [
+    {
+      "file": "gondola.jpg",
+      "title": "Gondola",
+      "alt": "Gondola",
+      "desc": "Gondola photo"
+    },
+    {
+      "file": "motion-blur.jpg",
+      "title": "Motion Blur",
+      "alt": "Gondola",
+      "desc": "Motion blur photo"
+    }
+  ]
+}

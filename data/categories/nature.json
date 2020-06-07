@@ -1,0 +1,18 @@
+{
+  "largeHeading": "Nature",
+  "smallHeading": "Cool nature stuff",
+  "images": [
+    {
+      "file": "bears.jpg",
+      "title": "placeholder",
+      "alt": "placeholder",
+      "desc": "placeholder photo"
+    },
+    {
+      "file": "placeholder.jpg",
+      "title": "placeholder",
+      "alt": "placeholder",
+      "desc": "placeholder photo"
+    }
+  ]
+}
