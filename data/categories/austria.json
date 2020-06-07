@@ -1,18 +1,19 @@
 {
+  "name": "austria",
   "largeHeading": "Austria",
   "smallHeading": "Austria's ace",
   "images": [
     {
       "file": "gondola.jpg",
       "title": "Gondola",
-      "alt": "Gondola",
-      "desc": "Gondola photo"
+      "alt": "Beautiful photo of the Austrian landscape and a gondola making its way down through the mountains",
+      "desc": ""
     },
     {
       "file": "motion-blur.jpg",
       "title": "Motion Blur",
       "alt": "Gondola",
-      "desc": "Motion blur photo"
+      "desc": "A cloudy mountainous backdrop sit behind some trees and buildings that have been blurred due to motion"
     }
   ]
 }
