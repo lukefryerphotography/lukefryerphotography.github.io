@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.abacd9446368838f15fed36ad65272be.js"
+  "/precache-manifest.643384eb4fa1a096541823a98bd1e677.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "luke-fryer-photography"});
