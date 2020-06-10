@@ -1,0 +1,43 @@
+{
+  "name": "astrophotography",
+  "largeHeading": "Astrophotography",
+  "smallHeading": "",
+  "images": [
+    {
+      "file": "astrophotography-01",
+      "title": "astrophotography-01",
+      "alt": "astrophotography-01",
+      "desc": "astrophotography-01 photo"
+    },
+    {
+      "file": "astrophotography-02",
+      "title": "astrophotography-02",
+      "alt": "astrophotography-02",
+      "desc": "astrophotography-02 photo"
+    },
+    {
+      "file": "astrophotography-03",
+      "title": "astrophotography-03",
+      "alt": "astrophotography-03",
+      "desc": "astrophotography-03 photo"
+    },
+    {
+      "file": "astrophotography-04",
+      "title": "astrophotography-04",
+      "alt": "astrophotography-04",
+      "desc": "astrophotography-04 photo"
+    },
+    {
+      "file": "astrophotography-05",
+      "title": "astrophotography-05",
+      "alt": "astrophotography-05",
+      "desc": "astrophotography-05 photo"
+    },
+    {
+      "file": "astrophotography-06",
+      "title": "astrophotography-06",
+      "alt": "astrophotography-06",
+      "desc": "astrophotography-06 photo"
+    }
+  ]
+}

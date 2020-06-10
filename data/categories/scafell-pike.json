@@ -1,0 +1,49 @@
+{
+  "name": "scafell-pike",
+  "largeHeading": "Scafell Pike",
+  "smallHeading": "",
+  "images": [
+    {
+      "file": "scafell-pike-01",
+      "title": "scafell-pike-01",
+      "alt": "scafell-pike-01",
+      "desc": "scafell-pike-01 photo"
+    },
+    {
+      "file": "scafell-pike-02",
+      "title": "scafell-pike-02",
+      "alt": "scafell-pike-02",
+      "desc": "scafell-pike-02 photo"
+    },
+    {
+      "file": "scafell-pike-03",
+      "title": "scafell-pike-03",
+      "alt": "scafell-pike-03",
+      "desc": "scafell-pike-03 photo"
+    },
+    {
+      "file": "scafell-pike-04",
+      "title": "scafell-pike-04",
+      "alt": "scafell-pike-04",
+      "desc": "scafell-pike-04 photo"
+    },
+    {
+      "file": "scafell-pike-05",
+      "title": "scafell-pike-05",
+      "alt": "scafell-pike-05",
+      "desc": "scafell-pike-05 photo"
+    },
+    {
+      "file": "scafell-pike-06",
+      "title": "scafell-pike-06",
+      "alt": "scafell-pike-06",
+      "desc": "scafell-pike-06 photo"
+    },
+    {
+      "file": "scafell-pike-07",
+      "title": "scafell-pike-07",
+      "alt": "scafell-pike-07",
+      "desc": "scafell-pike-07 photo"
+    }
+  ]
+}

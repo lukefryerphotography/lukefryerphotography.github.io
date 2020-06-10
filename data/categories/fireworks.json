@@ -1,0 +1,55 @@
+{
+  "name": "fireworks",
+  "largeHeading": "Fireworks",
+  "smallHeading": "",
+  "images": [
+    {
+      "file": "fireworks-01",
+      "title": "fireworks-01",
+      "alt": "fireworks-01",
+      "desc": "fireworks-01 photo"
+    },
+    {
+      "file": "fireworks-02",
+      "title": "fireworks-02",
+      "alt": "fireworks-02",
+      "desc": "fireworks-02 photo"
+    },
+    {
+      "file": "fireworks-03",
+      "title": "fireworks-03",
+      "alt": "fireworks-03",
+      "desc": "fireworks-03 photo"
+    },
+    {
+      "file": "fireworks-04",
+      "title": "fireworks-04",
+      "alt": "fireworks-04",
+      "desc": "fireworks-04 photo"
+    },
+    {
+      "file": "fireworks-05",
+      "title": "fireworks-05",
+      "alt": "fireworks-05",
+      "desc": "fireworks-05 photo"
+    },
+    {
+      "file": "fireworks-06",
+      "title": "fireworks-06",
+      "alt": "fireworks-06",
+      "desc": "fireworks-06 photo"
+    },
+    {
+      "file": "fireworks-07",
+      "title": "fireworks-07",
+      "alt": "fireworks-07",
+      "desc": "fireworks-07 photo"
+    },
+    {
+      "file": "fireworks-08",
+      "title": "fireworks-08",
+      "alt": "fireworks-08",
+      "desc": "fireworks-08 photo"
+    }
+  ]
+}

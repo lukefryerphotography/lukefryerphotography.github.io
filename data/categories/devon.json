@@ -1,0 +1,79 @@
+{
+  "name": "devon",
+  "largeHeading": "Devon",
+  "smallHeading": "",
+  "images": [
+    {
+      "file": "devon-01",
+      "title": "devon-01",
+      "alt": "devon-01",
+      "desc": "devon-01 photo"
+    },
+    {
+      "file": "devon-02",
+      "title": "devon-02",
+      "alt": "devon-02",
+      "desc": "devon-02 photo"
+    },
+    {
+      "file": "devon-03",
+      "title": "devon-03",
+      "alt": "devon-03",
+      "desc": "devon-03 photo"
+    },
+    {
+      "file": "devon-04",
+      "title": "devon-04",
+      "alt": "devon-04",
+      "desc": "devon-04 photo"
+    },
+    {
+      "file": "devon-05",
+      "title": "devon-05",
+      "alt": "devon-05",
+      "desc": "devon-05 photo"
+    },
+    {
+      "file": "devon-06",
+      "title": "devon-06",
+      "alt": "devon-06",
+      "desc": "devon-06 photo"
+    },
+    {
+      "file": "devon-07",
+      "title": "devon-07",
+      "alt": "devon-07",
+      "desc": "devon-07 photo"
+    },
+    {
+      "file": "devon-08",
+      "title": "devon-08",
+      "alt": "devon-08",
+      "desc": "devon-08 photo"
+    },
+    {
+      "file": "devon-09",
+      "title": "devon-09",
+      "alt": "devon-09",
+      "desc": "devon-09 photo"
+    },
+    {
+      "file": "carpathians-10",
+      "title": "carpathians-09",
+      "alt": "carpathians-09",
+      "desc": "carpathians-09 photo"
+    },
+    {
+      "file": "devon-11",
+      "title": "devon-11",
+      "alt": "devon-11",
+      "desc": "devon-11 photo"
+    },
+    {
+      "file": "devon-12",
+      "title": "devon-01",
+      "alt": "devon-01",
+      "desc": "devon-01 photo"
+    }
+  ]
+}

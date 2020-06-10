@@ -1,0 +1,67 @@
+{
+  "name": "fuerteventura",
+  "largeHeading": "Fuerteventura",
+  "smallHeading": "",
+  "images": [
+    {
+      "file": "fuerteventura-01",
+      "title": "fuerteventura-01",
+      "alt": "fuerteventura-01",
+      "desc": "fuerteventura-01 photo"
+    },
+    {
+      "file": "fuerteventura-02",
+      "title": "fuerteventura-02",
+      "alt": "fuerteventura-02",
+      "desc": "fuerteventura-02 photo"
+    },
+    {
+      "file": "fuerteventura-03",
+      "title": "fuerteventura-03",
+      "alt": "fuerteventura-03",
+      "desc": "fuerteventura-03 photo"
+    },
+    {
+      "file": "fuerteventura-04",
+      "title": "fuerteventura-04",
+      "alt": "fuerteventura-04",
+      "desc": "fuerteventura-04 photo"
+    },
+    {
+      "file": "fuerteventura-05",
+      "title": "fuerteventura-05",
+      "alt": "fuerteventura-05",
+      "desc": "fuerteventura-05 photo"
+    },
+    {
+      "file": "fuerteventura-06",
+      "title": "fuerteventura-06",
+      "alt": "fuerteventura-06",
+      "desc": "fuerteventura-06 photo"
+    },
+    {
+      "file": "fuerteventura-07",
+      "title": "fuerteventura-07",
+      "alt": "fuerteventura-07",
+      "desc": "fuerteventura-07 photo"
+    },
+    {
+      "file": "fuerteventura-08",
+      "title": "fuerteventura-08",
+      "alt": "fuerteventura-08",
+      "desc": "fuerteventura-08 photo"
+    },
+    {
+      "file": "fuerteventura-09",
+      "title": "fuerteventura-09",
+      "alt": "fuerteventura-09",
+      "desc": "fuerteventura-09 photo"
+    },
+    {
+      "file": "carpathians-10",
+      "title": "carpathians-09",
+      "alt": "carpathians-09",
+      "desc": "carpathians-09 photo"
+    }
+  ]
+}

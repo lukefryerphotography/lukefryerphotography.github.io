@@ -1,43 +1,49 @@
 {
   "name": "nature",
   "largeHeading": "Nature",
-  "smallHeading": "Cool nature stuff",
+  "smallHeading": "",
   "images": [
     {
-      "file": "bears.jpg",
-      "title": "placeholder",
-      "alt": "placeholder",
-      "desc": ""
+      "file": "nature-01",
+      "title": "nature-01",
+      "alt": "nature-01",
+      "desc": "nature-01 photo"
     },
     {
-      "file": "placeholder.jpg",
-      "title": "placeholder",
-      "alt": "placeholder",
-      "desc": ""
+      "file": "nature-02",
+      "title": "nature-02",
+      "alt": "nature-02",
+      "desc": "nature-02 photo"
     },
     {
-      "file": "placeholder2.jpg",
-      "title": "placeholder",
-      "alt": "placeholder",
-      "desc": ""
+      "file": "nature-03",
+      "title": "nature-03",
+      "alt": "nature-03",
+      "desc": "nature-03 photo"
     },
     {
-      "file": "placeholder3.jpg",
-      "title": "placeholder",
-      "alt": "placeholder",
-      "desc": ""
+      "file": "nature-04",
+      "title": "nature-04",
+      "alt": "nature-04",
+      "desc": "nature-04 photo"
     },
     {
-      "file": "placeholder4.jpg",
-      "title": "placeholder",
-      "alt": "placeholder",
-      "desc": ""
+      "file": "nature-05",
+      "title": "nature-05",
+      "alt": "nature-05",
+      "desc": "nature-05 photo"
     },
     {
-      "file": "placeholder5.jpg",
-      "title": "placeholder",
-      "alt": "placeholder",
-      "desc": ""
+      "file": "nature-06",
+      "title": "nature-06",
+      "alt": "nature-06",
+      "desc": "nature-06 photo"
+    },
+    {
+      "file": "nature-07",
+      "title": "nature-07",
+      "alt": "nature-07",
+      "desc": "nature-07 photo"
     }
   ]
 }
