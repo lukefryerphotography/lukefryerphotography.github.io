@@ -7,61 +7,71 @@
       "file": "amsterdam-01",
       "title": "amsterdam-01",
       "alt": "amsterdam-01",
-      "desc": "amsterdam-01 photo"
+      "desc": "amsterdam-01 photo",
+      "layout": "landscape"
     },
     {
       "file": "amsterdam-02",
       "title": "amsterdam-02",
       "alt": "amsterdam-02",
-      "desc": "amsterdam-02 photo"
+      "desc": "amsterdam-02 photo",
+      "layout": "landscape"
     },
     {
       "file": "amsterdam-03",
       "title": "amsterdam-03",
       "alt": "amsterdam-03",
-      "desc": "amsterdam-03 photo"
+      "desc": "amsterdam-03 photo",
+      "layout": "landscape"
     },
     {
       "file": "amsterdam-04",
       "title": "amsterdam-04",
       "alt": "amsterdam-04",
-      "desc": "amsterdam-04 photo"
+      "desc": "amsterdam-04 photo",
+      "layout": "portrait"
     },
     {
       "file": "amsterdam-05",
       "title": "amsterdam-05",
       "alt": "amsterdam-05",
-      "desc": "amsterdam-05 photo"
+      "desc": "amsterdam-05 photo",
+      "layout": "landscape"
     },
     {
       "file": "amsterdam-06",
       "title": "amsterdam-06",
       "alt": "amsterdam-06",
-      "desc": "amsterdam-06 photo"
+      "desc": "amsterdam-06 photo",
+      "layout": "panoramic"
     },
     {
       "file": "amsterdam-07",
       "title": "amsterdam-07",
       "alt": "amsterdam-07",
-      "desc": "amsterdam-07 photo"
+      "desc": "amsterdam-07 photo",
+      "layout": "portrait"
     },
     {
       "file": "amsterdam-08",
       "title": "amsterdam-08",
       "alt": "amsterdam-08",
-      "desc": "amsterdam-08 photo"
+      "desc": "amsterdam-08 photo",
+      "layout": "portrait"
     },
     {
       "file": "amsterdam-09",
       "title": "amsterdam-09",
       "alt": "amsterdam-09",
-      "desc": "amsterdam-09 photo"
+      "desc": "amsterdam-09 photo",
+      "layout": "landscape"
     },
     {
       "file": "amsterdam-10",
       "title": "amsterdam-09",
       "alt": "amsterdam-09",
-      "desc": "amsterdam-09 photo"
+      "desc": "amsterdam-09 photo",
+      "layout": "landscape"
     }
   ]
 }

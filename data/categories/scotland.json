@@ -7,37 +7,43 @@
       "file": "scotland-01",
       "title": "scotland-01",
       "alt": "scotland-01",
-      "desc": "scotland-01 photo"
+      "desc": "scotland-01 photo",
+      "layout": "panoramic"
     },
     {
       "file": "scotland-02",
       "title": "scotland-02",
       "alt": "scotland-02",
-      "desc": "scotland-02 photo"
+      "desc": "scotland-02 photo",
+      "layout": "landscape"
     },
     {
       "file": "scotland-03",
       "title": "scotland-03",
       "alt": "scotland-03",
-      "desc": "scotland-03 photo"
+      "desc": "scotland-03 photo",
+      "layout": "landscape"
     },
     {
       "file": "scotland-04",
       "title": "scotland-04",
       "alt": "scotland-04",
-      "desc": "scotland-04 photo"
+      "desc": "scotland-04 photo",
+      "layout": "landscape"
     },
     {
       "file": "scotland-05",
       "title": "scotland-05",
       "alt": "scotland-05",
-      "desc": "scotland-05 photo"
+      "desc": "scotland-05 photo",
+      "layout": "landscape"
     },
     {
       "file": "scotland-06",
       "title": "scotland-06",
       "alt": "scotland-06",
-      "desc": "scotland-06 photo"
+      "desc": "scotland-06 photo",
+      "layout": "square"
     }
   ]
 }

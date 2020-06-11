@@ -7,79 +7,92 @@
       "file": "formula-1-01",
       "title": "formula-1-01",
       "alt": "formula-1-01",
-      "desc": "formula-1-01 photo"
+      "desc": "formula-1-01 photo",
+      "layout": "square"
     },
     {
       "file": "formula-1-02",
       "title": "formula-1-02",
       "alt": "formula-1-02",
-      "desc": "formula-1-02 photo"
+      "desc": "formula-1-02 photo",
+      "layout": "panoramic"
     },
     {
       "file": "formula-1-03",
       "title": "formula-1-03",
       "alt": "formula-1-03",
-      "desc": "formula-1-03 photo"
+      "desc": "formula-1-03 photo",
+      "layout": "square"
     },
     {
       "file": "formula-1-04",
       "title": "formula-1-04",
       "alt": "formula-1-04",
-      "desc": "formula-1-04 photo"
+      "desc": "formula-1-04 photo",
+      "layout": "landscape"
     },
     {
       "file": "formula-1-05",
       "title": "formula-1-05",
       "alt": "formula-1-05",
-      "desc": "formula-1-05 photo"
+      "desc": "formula-1-05 photo",
+      "layout": "panoramic"
     },
     {
       "file": "formula-1-06",
       "title": "formula-1-06",
       "alt": "formula-1-06",
-      "desc": "formula-1-06 photo"
+      "desc": "formula-1-06 photo",
+      "layout": "landscape"
     },
     {
       "file": "formula-1-07",
       "title": "formula-1-07",
       "alt": "formula-1-07",
-      "desc": "formula-1-07 photo"
+      "desc": "formula-1-07 photo",
+      "layout": "landscape"
     },
     {
       "file": "formula-1-08",
       "title": "formula-1-08",
       "alt": "formula-1-08",
-      "desc": "formula-1-08 photo"
+      "desc": "formula-1-08 photo",
+      "layout": "landscape"
     },
     {
       "file": "formula-1-09",
       "title": "formula-1-09",
       "alt": "formula-1-09",
-      "desc": "formula-1-09 photo"
+      "desc": "formula-1-09 photo",
+      "layout": "square"
     },
     {
-      "file": "carpathians-10",
+      "file": "formula-1-10",
       "title": "carpathians-09",
       "alt": "carpathians-09",
-      "desc": "carpathians-09 photo"
+      "desc": "carpathians-09 photo",
+      "layout": "landscape"
     },
     {
       "file": "formula-1-11",
       "title": "formula-1-11",
       "alt": "formula-1-11",
-      "desc": "formula-1-11 photo"
+      "desc": "formula-1-11 photo",
+      "layout": "landscape"
     },
     {
       "file": "formula-1-12",
       "title": "formula-1-01",
       "alt": "formula-1-01",
-      "desc": "formula-1-01 photo"
+      "desc": "formula-1-01 photo",
+      "layout": "portrait"
     },
     {
       "file": "formula-1-13",
       "title": "formula-1-01",
       "alt": "formula-1-01",
-      "desc": "formula-1-01 photo"
+      "desc": "formula-1-01 photo",
+      "layout": "landscape"
     }
   ]
 }

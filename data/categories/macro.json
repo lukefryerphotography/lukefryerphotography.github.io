@@ -7,43 +7,50 @@
       "file": "macro-01",
       "title": "macro-01",
       "alt": "macro-01",
-      "desc": "macro-01 photo"
+      "desc": "macro-01 photo",
+      "layout": "landscape"
     },
     {
       "file": "macro-02",
       "title": "macro-02",
       "alt": "macro-02",
-      "desc": "macro-02 photo"
+      "desc": "macro-02 photo",
+      "layout": "landscape"
     },
     {
       "file": "macro-03",
       "title": "macro-03",
       "alt": "macro-03",
-      "desc": "macro-03 photo"
+      "desc": "macro-03 photo",
+      "layout": "portrait"
     },
     {
       "file": "macro-04",
       "title": "macro-04",
       "alt": "macro-04",
-      "desc": "macro-04 photo"
+      "desc": "macro-04 photo",
+      "layout": "landscape"
     },
     {
       "file": "macro-05",
       "title": "macro-05",
       "alt": "macro-05",
-      "desc": "macro-05 photo"
+      "desc": "macro-05 photo",
+      "layout": "square"
     },
     {
       "file": "macro-06",
       "title": "macro-06",
       "alt": "macro-06",
-      "desc": "macro-06 photo"
+      "desc": "macro-06 photo",
+      "layout": "landscape"
     },
     {
       "file": "macro-07",
       "title": "macro-07",
       "alt": "macro-07",
-      "desc": "macro-07 photo"
+      "desc": "macro-07 photo",
+      "layout": "landscape"
     }
   ]
 }

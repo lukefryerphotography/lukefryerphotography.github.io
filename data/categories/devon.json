@@ -7,73 +7,85 @@
       "file": "devon-01",
       "title": "devon-01",
       "alt": "devon-01",
-      "desc": "devon-01 photo"
+      "desc": "devon-01 photo",
+      "layout": "landscape"
     },
     {
       "file": "devon-02",
       "title": "devon-02",
       "alt": "devon-02",
-      "desc": "devon-02 photo"
+      "desc": "devon-02 photo",
+      "layout": "landscape"
     },
     {
       "file": "devon-03",
       "title": "devon-03",
       "alt": "devon-03",
-      "desc": "devon-03 photo"
+      "desc": "devon-03 photo",
+      "layout": "portrait"
     },
     {
       "file": "devon-04",
       "title": "devon-04",
       "alt": "devon-04",
-      "desc": "devon-04 photo"
+      "desc": "devon-04 photo",
+      "layout": "landscape"
     },
     {
       "file": "devon-05",
       "title": "devon-05",
       "alt": "devon-05",
-      "desc": "devon-05 photo"
+      "desc": "devon-05 photo",
+      "layout": "landscape"
     },
     {
       "file": "devon-06",
       "title": "devon-06",
       "alt": "devon-06",
-      "desc": "devon-06 photo"
+      "desc": "devon-06 photo",
+      "layout": "portrait"
     },
     {
       "file": "devon-07",
       "title": "devon-07",
       "alt": "devon-07",
-      "desc": "devon-07 photo"
+      "desc": "devon-07 photo",
+      "layout": "landscape"
     },
     {
       "file": "devon-08",
       "title": "devon-08",
       "alt": "devon-08",
-      "desc": "devon-08 photo"
+      "desc": "devon-08 photo",
+      "layout": "landscape"
     },
     {
       "file": "devon-09",
       "title": "devon-09",
       "alt": "devon-09",
-      "desc": "devon-09 photo"
+      "desc": "devon-09 photo",
+      "layout": "landscape"
     },
     {
-      "file": "carpathians-10",
+      "file": "devon-10",
       "title": "carpathians-09",
       "alt": "carpathians-09",
-      "desc": "carpathians-09 photo"
+      "desc": "carpathians-09 photo",
+      "layout": "panoramic"
     },
     {
       "file": "devon-11",
       "title": "devon-11",
       "alt": "devon-11",
-      "desc": "devon-11 photo"
+      "desc": "devon-11 photo",
+      "layout": "landscape"
     },
     {
       "file": "devon-12",
       "title": "devon-01",
       "alt": "devon-01",
-      "desc": "devon-01 photo"
+      "desc": "devon-01 photo",
+      "layout": "landscape"
     }
   ]
 }
