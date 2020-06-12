@@ -1,0 +1,123 @@
+[
+  {
+    "amsterdam": [
+      {
+        "slug": "amsterdam",
+        "title": "Amsterdam",
+        "description": "Amsterdam photos"
+      }
+    ],
+    "astrophotography": [
+      {
+        "slug": "astrophotography",
+        "title": "Astrophotography",
+        "description": "Astrophotography photos"
+      }
+    ],
+    "austria": [
+      {
+        "slug": "austria",
+        "title": "austria",
+        "description": "austria photos"
+      }
+    ],
+    "carpathians": [
+      {
+        "slug": "carpathians",
+        "title": "Carpathians",
+        "description": "carpathians photos"
+      }
+    ],
+    "crete": [
+      {
+        "slug": "crete",
+        "title": "crete",
+        "description": "crete photos"
+      }
+    ],
+    "croatia": [
+      {
+        "slug": "croatia",
+        "title": "croatia",
+        "description": "croatia photos"
+      }
+    ],
+    "devon": [
+      {
+        "slug": "devon",
+        "title": "devon",
+        "description": "devon photos"
+      }
+    ],
+    "fireworks": [
+      {
+        "slug": "fireworks",
+        "title": "fireworks",
+        "description": "fireworks photos"
+      }
+    ],
+    "formula1": [
+      {
+        "slug": "formula-1",
+        "title": "formula-1",
+        "description": "formula-1 photos"
+      }
+    ],
+    "fuerteventura": [
+      {
+        "slug": "fuerteventura",
+        "title": "fuerteventura",
+        "description": "fuerteventura photos"
+      }
+    ],
+    "gdansk": [
+      {
+        "slug": "gdansk",
+        "title": "gdansk",
+        "description": "gdansk photos"
+      }
+    ],
+    "lviv": [
+      {
+        "slug": "lviv",
+        "title": "lviv",
+        "description": "lviv photos"
+      }
+    ],
+    "macro": [
+      {
+        "slug": "macro",
+        "title": "macro",
+        "description": "macro photos"
+      }
+    ],
+    "nature": [
+      {
+        "slug": "nature",
+        "title": "nature",
+        "description": "nature photos"
+      }
+    ],
+    "scafellPike": [
+      {
+        "slug": "scafell-pike",
+        "title": "scafell-pike",
+        "description": "scafell-pike photos"
+      }
+    ],
+    "scarborough": [
+      {
+        "slug": "scarborough",
+        "title": "scarborough",
+        "description": "scarborough photos"
+      }
+    ],
+    "scotland": [
+      {
+        "slug": "scotland",
+        "title": "scotland",
+        "description": "scotland photos"
+      }
+    ]
+  }
+]

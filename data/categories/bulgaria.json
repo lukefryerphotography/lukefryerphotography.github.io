@@ -1,0 +1,28 @@
+{
+  "name": "bulgaria",
+  "largeHeading": "Bulgaria",
+  "smallHeading": "",
+  "images": [
+    {
+      "file": "bulgaria-12",
+      "title": "bulgaria-01",
+      "alt": "bulgaria-01",
+      "desc": "bulgaria-01 photo",
+      "layout": "landscape"
+    },
+    {
+      "file": "bulgaria-13",
+      "title": "bulgaria-01",
+      "alt": "bulgaria-01",
+      "desc": "bulgaria-01 photo",
+      "layout": "landscape"
+    },
+    {
+      "file": "bulgaria-14",
+      "title": "bulgaria-01",
+      "alt": "bulgaria-01",
+      "desc": "bulgaria-01 photo",
+      "layout": "landscape"
+    }
+  ]
+}
