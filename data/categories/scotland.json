@@ -4,6 +4,13 @@
   "smallHeading": "",
   "images": [
     {
+      "file": "scotland-03",
+      "title": "scotland-03",
+      "alt": "scotland-03",
+      "desc": "scotland-03 photo",
+      "layout": "landscape"
+    },
+    {
       "file": "scotland-05",
       "title": "scotland-01",
       "alt": "scotland-01",
@@ -15,13 +22,6 @@
       "title": "scotland-02",
       "alt": "scotland-02",
       "desc": "scotland-02 photo",
-      "layout": "landscape"
-    },
-    {
-      "file": "scotland-03",
-      "title": "scotland-03",
-      "alt": "scotland-03",
-      "desc": "scotland-03 photo",
       "layout": "landscape"
     },
     {
