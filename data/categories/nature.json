@@ -5,51 +5,37 @@
   "images": [
     {
       "file": "nature-03",
-      "title": "nature-01",
-      "alt": "nature-01",
-      "desc": "nature-01 photo",
+      "alt": "Tropical World, Roundhay",
       "layout": "landscape"
     },
     {
       "file": "nature-02",
-      "title": "nature-02",
-      "alt": "nature-02",
-      "desc": "nature-02 photo",
+      "alt": "Female Swan (pen)",
       "layout": "landscape"
     },
     {
       "file": "nature-01",
-      "title": "nature-03",
-      "alt": "nature-03",
-      "desc": "nature-03 photo",
+      "alt": "Perfect for quills",
       "layout": "landscape"
     },
     {
       "file": "nature-04",
-      "title": "nature-04",
-      "alt": "nature-04",
-      "desc": "nature-04 photo",
+      "alt": "Birb",
       "layout": "square"
     },
     {
       "file": "nature-05",
-      "title": "nature-05",
-      "alt": "nature-05",
-      "desc": "nature-05 photo",
+      "alt": "\"Don't look at me\"",
       "layout": "landscape"
     },
     {
       "file": "nature-06",
-      "title": "nature-06",
-      "alt": "nature-06",
-      "desc": "nature-06 photo",
+      "alt": "\"Want to buy car insurance?\"",
       "layout": "landscape"
     },
     {
       "file": "nature-07",
-      "title": "nature-07",
-      "alt": "nature-07",
-      "desc": "nature-07 photo",
+      "alt": "One of the Lowther lakes, Allerton Bywater",
       "layout": "landscape"
     }
   ]

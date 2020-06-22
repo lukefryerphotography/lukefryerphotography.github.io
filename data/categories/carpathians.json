@@ -1,119 +1,82 @@
 {
   "name": "carpathians",
   "largeHeading": "Carpathians",
-  "smallHeading": "The Carpathians mountains, Ukraine",
+  "smallHeading": "Ukraine",
   "images": [
-        {
-          "file": "carpathians-03",
-          "title": "carpathians-03",
-          "alt": "carpathians-03",
-          "desc": "carpathians-03 photo",
-          "layout": "landscape"
-        },
+    {
+      "file": "carpathians-03",
+      "alt": "Carpathians beech forests",
+      "layout": "landscape"
+    },
     {
       "file": "carpathians-08",
-      "title": "carpathians-08",
-      "alt": "carpathians-08",
-      "desc": "carpathians-08 photo",
+      "alt": "Lake Synevyr",
       "layout": "panoramic"
     },
     {
       "file": "carpathians-01",
-      "title": "carpathians-01",
-      "alt": "carpathians-01",
-      "desc": "carpathians-01 photo",
+      "alt": "An old banger",
       "layout": "landscape"
     },
     {
       "file": "carpathians-02",
-      "title": "carpathians-02",
-      "alt": "carpathians-02",
-      "desc": "carpathians-02 photo",
+      "alt": "Carpathian log cabins",
       "layout": "landscape"
     },
     {
       "file": "carpathians-04",
-      "title": "carpathians-04",
-      "alt": "carpathians-04",
-      "desc": "carpathians-04 photo",
+      "alt": "Brown bear",
       "layout": "landscape"
     },
     {
       "file": "carpathians-05",
-      "title": "carpathians-05",
-      "alt": "carpathians-05",
-      "desc": "carpathians-05 photo",
+      "alt": "Brown bear",
       "layout": "landscape"
     },
     {
       "file": "carpathians-06",
-      "title": "carpathians-06",
-      "alt": "carpathians-06",
-      "desc": "carpathians-06 photo",
+      "alt": "Brown bear play time",
       "layout": "landscape"
     },
     {
       "file": "carpathians-07",
-      "title": "carpathians-07",
-      "alt": "carpathians-07",
-      "desc": "carpathians-07 photo",
+      "alt": "A stream that leads to the Tereblya River",
       "layout": "landscape"
     },
     {
       "file": "carpathians-09",
-      "title": "carpathians-09",
-      "alt": "carpathians-09",
-      "desc": "carpathians-09 photo",
+      "alt": "Red tree sculptural composition \"Syn and Vir\"",
       "layout": "landscape"
     },
     {
       "file": "carpathians-10",
-      "title": "carpathians-09",
-      "alt": "carpathians-09",
-      "desc": "carpathians-09 photo",
+      "alt": "Lake Synevyr, Mizhhirs'kyi district",
       "layout": "landscape"
     },
     {
       "file": "carpathians-11",
-      "title": "carpathians-11",
-      "alt": "carpathians-11",
-      "desc": "carpathians-11 photo",
+      "alt": "Lake Synevyr - named after a pair of tragic lovers",
       "layout": "landscape"
     },
     {
       "file": "carpathians-12",
-      "title": "carpathians-01",
-      "alt": "carpathians-01",
-      "desc": "carpathians-01 photo",
+      "alt": "The village of Synevirska Polyana",
       "layout": "landscape"
     },
     {
       "file": "carpathians-13",
-      "title": "carpathians-01",
-      "alt": "carpathians-01",
-      "desc": "carpathians-01 photo",
+      "alt": "",
       "layout": "landscape"
     },
     {
       "file": "carpathians-14",
-      "title": "carpathians-01",
-      "alt": "carpathians-01",
-      "desc": "carpathians-01 photo",
+      "alt": "",
       "layout": "landscape"
     },
     {
       "file": "carpathians-15",
-      "title": "carpathians-01",
-      "alt": "carpathians-01",
-      "desc": "carpathians-01 photo",
+      "alt": "",
       "layout": "landscape"
-    },
-    {
-      "file": "carpathians-15",
-      "title": "carpathians-01",
-      "alt": "carpathians-01",
-      "desc": "carpathians-01 photo",
-      "layout": "panoramic"
     }
   ]
 }

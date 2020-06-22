@@ -1,209 +1,151 @@
 {
   "name": "austria",
   "largeHeading": "Austria",
-  "smallHeading": "",
+  "smallHeading": "The eastern realm",
   "images": [
     {
       "file": "austria-03",
-      "title": "austria-03",
-      "alt": "Photo shot from inside a car, capturing the mountains in the background, and the motion blur of industry in the foreground",
-      "desc": "austria-03 photo",
+      "alt": "Motion blur",
       "layout": "portrait"
     },
     {
       "file": "austria-01",
-      "title": "austria-01",
-      "alt": "austria-01",
-      "desc": "austria-01 photo",
+      "alt": "A damp day in Mondsee",
       "layout": "landscape"
     },
     {
       "file": "austria-02",
-      "title": "austria-02",
-      "alt": "austria-02",
-      "desc": "austria-02 photo",
+      "alt": "Timber construction site",
       "layout": "portrait"
     },
     {
       "file": "austria-04",
-      "title": "austria-04",
-      "alt": "austria-04",
-      "desc": "austria-04 photo",
-      "layout": "landscape"
-    },
-    {
-      "file": "austria-05",
-      "title": "austria-05",
-      "alt": "austria-05",
-      "desc": "austria-05 photo",
+      "alt": "A pretty tree with red leaves",
       "layout": "landscape"
     },
     {
       "file": "austria-06",
-      "title": "austria-06",
-      "alt": "austria-06",
-      "desc": "austria-06 photo",
+      "alt": "The 16th century town of Hallstatt",
+      "layout": "landscape"
+    },
+    {
+      "file": "austria-05",
+      "alt": "Stone carving, Hallstatt",
       "layout": "landscape"
     },
     {
       "file": "austria-07",
-      "title": "austria-07",
-      "alt": "austria-07",
-      "desc": "austria-07 photo",
+      "alt": "Hallstatt's Alpine houses",
+      "layout": "landscape"
+    },
+    {
+      "file": "austria-09",
+      "alt": "Hallstätter See",
       "layout": "landscape"
     },
     {
       "file": "austria-08",
-      "title": "austria-08",
-      "alt": "austria-08",
-      "desc": "austria-08 photo",
+      "alt": "Hallstatt's Alpine houses",
       "layout": "portrait"
     },
     {
-      "file": "austria-09",
-      "title": "austria-09",
-      "alt": "austria-09",
-      "desc": "austria-09 photo",
-      "layout": "landscape"
-    },
-    {
       "file": "austria-10",
-      "title": "austria-09",
-      "alt": "Beautiful photo of the Austrian landscape and a gondola making its way down through the mountains",
-      "desc": "austria-09 photo",
+      "alt": "Gondola making its way down Hochkogel mountain",
       "layout": "landscape"
     },
     {
       "file": "austria-11",
-      "title": "austria-11",
-      "alt": "Beautiful photo of the Austrian landscape and a gondola making its way down through the mountains",
-      "desc": "austria-11 photo",
+      "alt": "View from a Gondla, Hochkogel mountain",
       "layout": "landscape"
     },
     {
       "file": "austria-13",
-      "title": "austria-01",
-      "alt": "Beautiful photo of the Austrian landscape and a gondola making its way down through the mountains",
-      "desc": "austria-01 photo",
+      "alt": "Alpine trees and Gondola, Hochkogel mountain",
       "layout": "landscape"
     },
     {
       "file": "austria-14",
-      "title": "austria-01",
-      "alt": "austria-01",
-      "desc": "austria-01 photo",
+      "alt": "Vehicles",
       "layout": "landscape"
     },
     {
       "file": "austria-15",
-      "title": "austria-01",
-      "alt": "austria-01",
-      "desc": "austria-01 photo",
+      "alt": "Hohenwerfen Castle gardens",
       "layout": "panoramic"
     },
     {
       "file": "austria-16",
-      "title": "austria-01",
-      "alt": "austria-01",
-      "desc": "austria-01 photo",
+      "alt": "Hohenwerfen Castle gardens",
       "layout": "landscape"
     },
     {
       "file": "austria-17",
-      "title": "austria-01",
-      "alt": "austria-01",
-      "desc": "austria-01 photo",
+      "alt": "Golden Eagle, Hohenwerfen Castle",
       "layout": "landscape"
     },
     {
       "file": "austria-18",
-      "title": "austria-01",
-      "alt": "austria-01",
-      "desc": "austria-01 photo",
+      "alt": "Red-tailed Hawk, Hohenwerfen Castle",
       "layout": "landscape"
     },
     {
       "file": "austria-19",
-      "title": "austria-01",
-      "alt": "austria-01",
-      "desc": "austria-01 photo",
+      "alt": "Red-tailed Hawk, Hohenwerfen Castle",
       "layout": "square"
     },
     {
       "file": "austria-21",
-      "title": "austria-01",
-      "alt": "austria-01",
-      "desc": "austria-01 photo",
+      "alt": "Red-tailed Hawk, Hohenwerfen Castle",
       "layout": "landscape"
     },
     {
       "file": "austria-22",
-      "title": "austria-01",
-      "alt": "austria-01",
-      "desc": "austria-01 photo",
+      "alt": "Golden Eagle, Hohenwerfen Castle",
       "layout": "landscape"
     },
     {
       "file": "austria-20",
-      "title": "austria-01",
-      "alt": "austria-01",
-      "desc": "austria-01 photo",
+      "alt": "Golden Eagle, Hohenwerfen Castle",
       "layout": "landscape"
     },
     {
       "file": "austria-23",
-      "title": "austria-01",
-      "alt": "austria-01",
-      "desc": "austria-01 photo",
+      "alt": "Golden Eagle, Hohenwerfen Castle",
       "layout": "landscape"
     },
     {
       "file": "austria-24",
-      "title": "austria-01",
-      "alt": "austria-01",
-      "desc": "austria-01 photo",
+      "alt": "cinereous vulture, Hohenwerfen Castle",
       "layout": "landscape"
     },
     {
       "file": "austria-25",
-      "title": "austria-01",
-      "alt": "austria-01",
-      "desc": "austria-01 photo",
+      "alt": "Golden Eagle, Hohenwerfen Castle",
       "layout": "landscape"
     },
     {
       "file": "austria-26",
-      "title": "austria-01",
-      "alt": "austria-01",
-      "desc": "austria-01 photo",
+      "alt": "The Inner bailey of Hohenwerfen Castle",
       "layout": "landscape"
     },
     {
       "file": "austria-27",
-      "title": "austria-01",
-      "alt": "austria-01",
-      "desc": "austria-01 photo",
+      "alt": "Tennen Mountain, Salzach River valley",
       "layout": "landscape"
     },
     {
       "file": "austria-28",
-      "title": "austria-01",
-      "alt": "austria-01",
-      "desc": "austria-01 photo",
+      "alt": "Hohenwerfen Castle framed by nature",
       "layout": "portrait"
     },
     {
       "file": "austria-29",
-      "title": "austria-01",
-      "alt": "austria-01",
-      "desc": "austria-01 photo",
+      "alt": "Tennen Mountain",
       "layout": "landscape"
     },
     {
       "file": "austria-30",
-      "title": "austria-01",
-      "alt": "austria-01",
-      "desc": "austria-01 photo",
+      "alt": "The Sound of Music was filmed here",
       "layout": "panoramic"
     }
   ]

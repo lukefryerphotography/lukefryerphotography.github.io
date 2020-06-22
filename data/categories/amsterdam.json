@@ -1,76 +1,56 @@
 {
   "name": "amsterdam",
   "largeHeading": "Amsterdam",
-  "smallHeading": "",
+  "smallHeading": "Venice of the North",
   "images": [
     {
       "file": "amsterdam-03",
-      "title": "amsterdam-03",
-      "alt": "amsterdam-03",
-      "desc": "amsterdam-03 photo",
+      "alt": "Neon reflections",
       "layout": "portrait"
     },
     {
       "file": "amsterdam-01",
-      "title": "amsterdam-01",
-      "alt": "amsterdam-01",
-      "desc": "amsterdam-01 photo",
+      "alt": "Rijksmuseum - Art and history museum ",
       "layout": "landscape"
     },
     {
       "file": "amsterdam-02",
-      "title": "amsterdam-02",
-      "alt": "amsterdam-02",
-      "desc": "amsterdam-02 photo",
+      "alt": "One of Amsterdam's 165 canals",
       "layout": "landscape"
     },
     {
       "file": "amsterdam-04",
-      "title": "amsterdam-04",
-      "alt": "amsterdam-04",
-      "desc": "amsterdam-04 photo",
+      "alt": "Neon Lights",
       "layout": "portrait"
     },
     {
       "file": "amsterdam-05",
-      "title": "amsterdam-05",
-      "alt": "amsterdam-05",
-      "desc": "amsterdam-05 photo",
+      "alt": "One of Amsterdam's 2500+ bridges",
       "layout": "landscape"
     },
     {
       "file": "amsterdam-06",
-      "title": "amsterdam-06",
-      "alt": "amsterdam-06",
-      "desc": "amsterdam-06 photo",
+      "alt": "Vondelpark's historical Pavilion (1878)",
       "layout": "panoramic"
     },
     {
       "file": "amsterdam-07",
-      "title": "amsterdam-07",
-      "alt": "amsterdam-07",
-      "desc": "amsterdam-07 photo",
+      "alt": "Vondelkerk church (1870)",
       "layout": "portrait"
     },
     {
       "file": "amsterdam-08",
-      "title": "amsterdam-08",
-      "alt": "amsterdam-08",
-      "desc": "amsterdam-08 photo",
+      "alt": "The Snakehouse, a former squat, painted in 1987",
       "layout": "portrait"
     },
     {
       "file": "amsterdam-09",
-      "title": "amsterdam-09",
-      "alt": "amsterdam-09",
-      "desc": "amsterdam-09 photo",
+      "alt": "Neon lights and a dramatic sky",
       "layout": "landscape"
     },
     {
       "file": "amsterdam-10",
-      "title": "amsterdam-09",
-      "alt": "amsterdam-09",
-      "desc": "amsterdam-09 photo",
+      "alt": "THE BEST Macaroons in Amsterdam",
       "layout": "landscape"
     }
   ]

@@ -5,37 +5,27 @@
   "images": [
     {
       "file": "scarborough-05",
-      "title": "scarborough-01",
-      "alt": "scarborough-01",
-      "desc": "scarborough-01 photo",
+      "alt": "South Bay Roundabout with subway",
       "layout": "portrait"
     },
     {
       "file": "scarborough-02",
-      "title": "scarborough-02",
-      "alt": "scarborough-02",
-      "desc": "scarborough-02 photo",
+      "alt": "Chippy thief",
       "layout": "landscape"
     },
     {
       "file": "scarborough-03",
-      "title": "scarborough-03",
-      "alt": "scarborough-03",
-      "desc": "scarborough-03 photo",
+      "alt": "Scarborough",
       "layout": "landscape"
     },
     {
       "file": "scarborough-04",
-      "title": "scarborough-04",
-      "alt": "scarborough-04",
-      "desc": "scarborough-04 photo",
+      "alt": "South Bay",
       "layout": "landscape"
     },
     {
       "file": "scarborough-01",
-      "title": "scarborough-05",
-      "alt": "scarborough-05",
-      "desc": "scarborough-05 photo",
+      "alt": "Eye protection is for losers",
       "layout": "square"
     }
   ]

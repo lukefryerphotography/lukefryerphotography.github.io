@@ -1,48 +1,36 @@
 {
   "name": "scotland",
   "largeHeading": "Scotland",
-  "smallHeading": "",
+  "smallHeading": "Ben Nevis",
   "images": [
     {
       "file": "scotland-03",
-      "title": "scotland-03",
-      "alt": "scotland-03",
-      "desc": "scotland-03 photo",
+      "alt": "Glen Nevis valley",
       "layout": "landscape"
     },
     {
       "file": "scotland-05",
-      "title": "scotland-01",
-      "alt": "scotland-01",
-      "desc": "scotland-01 photo",
+      "alt": "Complete silence atop Ben Nevis",
       "layout": "panoramic"
     },
     {
       "file": "scotland-02",
-      "title": "scotland-02",
-      "alt": "scotland-02",
-      "desc": "scotland-02 photo",
+      "alt": "Perfectly framed average quality photo  of Loch linnhe",
       "layout": "landscape"
     },
     {
       "file": "scotland-04",
-      "title": "scotland-04",
-      "alt": "scotland-04",
-      "desc": "scotland-04 photo",
+      "alt": "",
       "layout": "landscape"
     },
     {
       "file": "scotland-06",
-      "title": "scotland-05",
-      "alt": "scotland-05",
-      "desc": "scotland-05 photo",
+      "alt": "Glen Nevis valley",
       "layout": "landscape"
     },
     {
       "file": "scotland-01",
-      "title": "scotland-06",
-      "alt": "scotland-06",
-      "desc": "scotland-06 photo",
+      "alt": "Ben Nevis in all its glory",
       "layout": "square"
     }
   ]
