@@ -6,7 +6,8 @@
     {
       "file": "devon-04",
       "alt": "Robin Red Breast",
-      "layout": "landscape"
+      "layout": "landscape",
+      "catLayout": "landscape"
     },
     {
       "file": "devon-02",

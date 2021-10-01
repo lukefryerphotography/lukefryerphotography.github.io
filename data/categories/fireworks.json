@@ -6,7 +6,8 @@
     {
       "file": "fireworks-07",
       "alt": "Sparkle!",
-      "layout": "square"
+      "layout": "landscape",
+      "catLayout": "square"
     },
     {
       "file": "fireworks-02",

@@ -6,7 +6,8 @@
     {
       "file": "poland-08",
       "alt": "Golden Gate (1612), Gdansk",
-      "layout": "landscape"
+      "layout": "landscape",
+      "catLayout": "landscape"
     },
     {
       "file": "poland-02",

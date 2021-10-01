@@ -6,7 +6,8 @@
     {
       "file": "crete-07",
       "alt": "Church of St Peter & Pavlou",
-      "layout": "portrait"
+      "layout": "landscape",
+      "catLayout": "portrait"
     },
     {
       "file": "crete-01",

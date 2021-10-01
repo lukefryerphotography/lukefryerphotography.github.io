@@ -6,7 +6,8 @@
     {
       "file": "scarborough-05",
       "alt": "South Bay Roundabout with subway",
-      "layout": "portrait"
+      "layout": "landscape",
+      "catLayout": "portrait"
     },
     {
       "file": "scarborough-02",

@@ -6,7 +6,8 @@
     {
       "file": "amsterdam-03",
       "alt": "Neon reflections",
-      "layout": "portrait"
+      "layout": "landscape",
+      "catLayout": "portrait"
     },
     {
       "file": "amsterdam-01",

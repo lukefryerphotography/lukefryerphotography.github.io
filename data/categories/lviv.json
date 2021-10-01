@@ -6,7 +6,8 @@
     {
       "file": "lviv-01",
       "alt": "View from Lviv City Hall",
-      "layout": "landscape"
+      "layout": "landscape",
+      "catLayout": "landscape"
     },
     {
       "file": "lviv-02",

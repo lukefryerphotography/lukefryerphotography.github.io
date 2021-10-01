@@ -6,7 +6,8 @@
     {
       "file": "nature-03",
       "alt": "Tropical World, Roundhay",
-      "layout": "landscape"
+      "layout": "landscape",
+      "catLayout": "landscape"
     },
     {
       "file": "nature-02",

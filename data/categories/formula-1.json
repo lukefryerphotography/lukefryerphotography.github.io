@@ -6,7 +6,8 @@
     {
       "file": "formula-1-05",
       "alt": "Alexander Albon in the RB16",
-      "layout": "square"
+      "layout": "landscape",
+      "catLayout": "landscape"
     },
     {
       "file": "formula-1-02",

@@ -6,7 +6,8 @@
     {
       "file": "macro-01",
       "alt": "A common housefly keeping clean",
-      "layout": "landscape"
+      "layout": "landscape",
+      "catLayout": "landscape"
     },
     {
       "file": "macro-02",

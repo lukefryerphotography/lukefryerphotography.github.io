@@ -6,7 +6,8 @@
     {
       "file": "fuerteventura-10",
       "alt": "fuerteventura-01",
-      "layout": "landscape"
+      "layout": "landscape",
+      "catLayout": "landscape"
     },
     {
       "file": "fuerteventura-02",

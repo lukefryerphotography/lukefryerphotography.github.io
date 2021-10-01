@@ -6,7 +6,8 @@
     {
       "file": "carpathians-03",
       "alt": "Carpathians beech forests",
-      "layout": "landscape"
+      "layout": "landscape",
+      "catLayout": "landscape"
     },
     {
       "file": "carpathians-08",

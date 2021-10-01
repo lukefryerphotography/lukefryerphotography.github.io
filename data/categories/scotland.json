@@ -6,7 +6,8 @@
     {
       "file": "scotland-03",
       "alt": "Glen Nevis valley",
-      "layout": "landscape"
+      "layout": "landscape",
+      "catLayout": "landscape"
     },
     {
       "file": "scotland-05",

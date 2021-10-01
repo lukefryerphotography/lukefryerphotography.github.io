@@ -6,7 +6,8 @@
     {
       "file": "croatia-03",
       "alt": "Šimuni Camping Village beach",
-      "layout": "landscape"
+      "layout": "landscape",
+      "catLayout": "landscape"
     },
     {
       "file": "croatia-02",

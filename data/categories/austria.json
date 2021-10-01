@@ -6,7 +6,8 @@
     {
       "file": "austria-03",
       "alt": "Motion blur",
-      "layout": "portrait"
+      "layout": "landscape",
+      "catLayout": "portrait"
     },
     {
       "file": "austria-01",

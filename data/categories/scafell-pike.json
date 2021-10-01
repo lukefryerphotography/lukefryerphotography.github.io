@@ -6,7 +6,8 @@
     {
       "file": "scafell-pike-04",
       "alt": "Tributary heading for The River Esk",
-      "layout": "landscape"
+      "layout": "landscape",
+      "catLayout": "landscape"
     },
     {
       "file": "scafell-pike-02",

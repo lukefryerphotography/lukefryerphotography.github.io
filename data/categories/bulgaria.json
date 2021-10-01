@@ -6,7 +6,8 @@
     {
       "file": "bulgaria-12",
       "alt": "Old Town, Nessebar",
-      "layout": "landscape"
+      "layout": "landscape",
+      "catLayout": "landscape"
     },
     {
       "file": "bulgaria-03",
